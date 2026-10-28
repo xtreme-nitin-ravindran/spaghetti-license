@@ -6,7 +6,7 @@ Canonical home of the **Spaghetti License** and its required branding image.
 
 | Resource            | URL                                                            |
 | ------------------- | -------------------------------------------------------------- |
-| License text        | <https://spaghetti.nitin.run/license>                          |
+| License text        | <https://spaghetti.nitin.run/LICENSE>                          |
 | Required image      | <https://spaghetti.nitin.run/brand-spaghetti.jpg>              |
 | Git repository      | `git@github.com:xtreme-nitin-ravindran/spaghetti-license.git`  |
 
